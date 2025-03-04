@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>404</title>
+    <style>
+      body {
+        width: 100%;
+        min-height: 100vh;
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background: #f8f8f8;
+      }
+      .maintain_img {
+        width: 360px;
+        height: 360px;
+      }
+      .maintain_img > img {
+        width: 100%;
+        height: 100%;
+      }
+      .maintain_title {
+        font-size: 28px;
+        margin-top: 30px;
+        margin-bottom: 0;
+        text-align: center;
+      }
+      .maintain_text {
+        width: 516px;
+        font-size: 22px;
+        line-height: 30px;
+        color: #494a4a;
+        text-align: center;
+      }
+
+      @media (max-width: 768px) {
+        .maintain_img {
+          width: 280px;
+          height: 280px;
+        }
+        .maintain_title {
+          font-size: 24px;
+        }
+        .maintain_text {
+          width: 100%;
+          font-size: 18px;
+          padding: 0 10px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="maintain_img">
+      <img src="./maintain.png" alt="" />
+    </div>
+    <h1 class="maintain_title">The website is currently being updated....</h1>
+    <p class="maintain_text">The development of new functions is stepping up Please be patient.</p>
+  </body>
+</html>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ether</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FAFAFC" offset="0%"></stop>
+            <stop stop-color="#C5CEDC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="page-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ether">
+            <circle id="Oval" fill="url(#linearGradient-1)" fill-rule="nonzero" cx="12" cy="12" r="12"></circle>
+            <g id="group" transform="translate(12.000000, 3.000000)">
+                <polygon id="path1" fill="#2F3030" points="0 0 5.4 9 0 9"></polygon>
+                <polygon id="path1-2" fill="#131313" points="5.4 9 0 12.3 0 6.9"></polygon>
+                <polygon id="path1-3" fill="#2F3030" points="0 13.5 0 18 5.4 10.2"></polygon>
+            </g>
+            <g id="group" transform="translate(9.300000, 12.000000) scale(-1, 1) translate(-9.300000, -12.000000) translate(6.600000, 3.000000)">
+                <polygon id="path1" fill="#828384" points="0 0 5.4 9 0 9"></polygon>
+                <polygon id="path1-2" fill="#343535" points="5.4 9 0 12.3 0 6.9"></polygon>
+                <polygon id="path1-3" fill="#828384" points="0 13.5 0 18 5.4 10.2"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
